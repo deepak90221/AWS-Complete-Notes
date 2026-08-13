@@ -1,7 +1,3 @@
-Absolutely. If this is your **main AWS learning repository**, the README should show your **complete AWS/cloud roadmap**, not just the services you've already learned.
-
-You can use this as your README:
-
 # ☁️ AWS & Cloud Computing Learning Roadmap
 
 This repository documents my journey of learning **Cloud Computing and Amazon Web Services (AWS)** through structured notes, hands-on labs, practical implementations, and real-world projects.
